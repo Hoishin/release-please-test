@@ -24,6 +24,7 @@ jobs:
           release-type: node
           package-name: nodecg
 
+      - uses: actions/checkout@v3
       - run: echo ${{ github.ref_type }}
       - run: echo ${{ github.ref_name }}
       - run: git tag --points-at HEAD
@@ -34,6 +35,7 @@ jobs:
     if: ${{ needs.release-please.outputs.release_created }}
 
     steps:
+      - uses: actions/checkout@v3
       - run: echo ${{ github.ref_type }}
       - run: echo ${{ github.ref_name }}
       - run: git tag --points-at HEAD
