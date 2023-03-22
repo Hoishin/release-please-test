@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/Hoishin/release-please-test/compare/v1.0.0...v2.0.0) (2023-03-22)
+
+
+### ⚠ BREAKING CHANGES
+
+* waaa
+
+### Features
+
+* waaa ([feeb8bc](https://github.com/Hoishin/release-please-test/commit/feeb8bc6f4098f4d6c398521a22828f50d9401f5))
+
 ## 1.0.0 (2023-03-22)
 
 
