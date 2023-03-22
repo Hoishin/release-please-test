@@ -37,4 +37,4 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - run: echo "${{ toJSON(release.outputs) }}"
+      - run: echo "${{ needs.release-please.outputs }}"
