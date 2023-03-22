@@ -26,7 +26,7 @@ jobs:
 
       - uses: actions/checkout@v3
 
-      - run: echo "${{ toJSON(steps.release.outputs) }}"
+      - run: echo '${{ toJSON(steps.release.outputs) }}'
 
 
   publish:
@@ -37,4 +37,4 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - run: echo "${{ needs.release-please.outputs }}"
+      - run: echo '${{ needs.release-please.outputs }}'
