@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.2](https://github.com/Hoishin/release-please-test/compare/v2.0.1...v2.0.2) (2023-03-22)
+
+
+### Bug Fixes
+
+* bar ([5e80816](https://github.com/Hoishin/release-please-test/commit/5e80816d8c069e2708e8da537e01ac8a7934087f))
+
 ## [2.0.1](https://github.com/Hoishin/release-please-test/compare/v2.0.0...v2.0.1) (2023-03-22)
 
 
