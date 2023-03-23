@@ -1,5 +1,20 @@
 # Changelog
 
+## [2.1.0](https://github.com/Hoishin/release-please-test/compare/v2.0.2...v2.1.0) (2023-03-23)
+
+
+### Features
+
+* docker ([91f1cb2](https://github.com/Hoishin/release-please-test/commit/91f1cb26c79f2c5b097457990580d3b2a997305d))
+
+
+### Bug Fixes
+
+* bar ([22bf5f3](https://github.com/Hoishin/release-please-test/commit/22bf5f379f138a5bb152e199d03ab2e7af520d7d))
+* bar ([9f2b29c](https://github.com/Hoishin/release-please-test/commit/9f2b29cf84cf78b43286a846c4adcf2768e1b18c))
+* bar ([091bd18](https://github.com/Hoishin/release-please-test/commit/091bd18644c015385aacb8901e4eb62ddeeab6d3))
+* bar ([151c7e2](https://github.com/Hoishin/release-please-test/commit/151c7e26c11cbc4d77087888418c29319cbf0768))
+
 ## [2.0.2](https://github.com/Hoishin/release-please-test/compare/v2.0.1...v2.0.2) (2023-03-22)
 
 
