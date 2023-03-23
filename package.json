@@ -1,6 +1,12 @@
 {
-  "name": "release-please-test",
+  "name": "hoishin-release-please-test",
   "version": "2.3.0",
   "main": "index.js",
-  "license": "UNLICENSED"
+  "license": "UNLICENSED",
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "webpack": "^5.76.3"
+  }
 }
