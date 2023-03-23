@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.2.0](https://github.com/Hoishin/release-please-test/compare/v2.1.0...v2.2.0) (2023-03-23)
+
+
+### Features
+
+* feat ([3bce7f4](https://github.com/Hoishin/release-please-test/commit/3bce7f4199554761e5ba4b808223ac0147da1ea3))
+
 ## [2.1.0](https://github.com/Hoishin/release-please-test/compare/v2.0.2...v2.1.0) (2023-03-23)
 
 
