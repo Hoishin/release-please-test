@@ -4,8 +4,6 @@ on:
   push:
     branches:
       - main
-    tags:
-      - '*'
 
 permissions:
   contents: write
@@ -45,7 +43,7 @@ jobs:
       - name: Publish to GitHub Release
         run: |
           FILE_NAME=$(npm pack)
-          gh release upload ${{ github.ref_name }} $FILE_NAME
+          gh release upload ${{ needs.release-please.outputs.release_name }} $FILE_NAME
         env:
           GH_TOKEN: ${{ github.token }}
 
